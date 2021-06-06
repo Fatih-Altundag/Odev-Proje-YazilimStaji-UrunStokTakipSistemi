@@ -1,5 +1,5 @@
 # Odev-Proje-YazilimStaji-UrunStokTakipSistemi
-UYARI ! Sistemde kısa süre işlem yapmazsanız veya başka sekmeye bakarsanız ve sonra bir menüye tıklarsanız sistem çalışmayabilir ya da giriş ekranına atabilir.Bu hatalı anlamına gelmemektedir. Bilerek yapılmıştır. Projem içeride işlem yapılabilmesi için süre ayarlıdır. Lütfen sisteme yeniden giriş yapınız.
+UYARI ! Sistemde kısa süre işlem yapmazsanız veya başka sekmeye bakarsanız ve sonra bir menüye tıklarsanız sistem çalışmayabilir ya da giriş ekranına atabilir.Bu hatalı anlamına gelmemektedir. Bilerek yapılmıştır. Projemde işlem yapabilmeniz için, kod yazarken süre ayarı ile ilgili kod yazdım. Lütfen sisteme yeniden giriş yapınız.
 
 Projede ağırlıklı olarak Bootstrap,HTML , CSS ,ASP.NET MVC , C# kullanılmıştır. 
 Siteye giriş yapmak için şu adresi kullanınız : http://www.urunstoktakipprojesi.somee.com/Account/Login 
